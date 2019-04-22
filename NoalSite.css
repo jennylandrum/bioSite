@@ -1,0 +1,43 @@
+html{
+    font-size: 16px;
+    }
+body {
+  background-color: black;
+  color: white;
+}
+.header {
+  background-color: #353238;
+  padding: 30px;
+}
+h1 {
+  font-family: 'Special Elite', cursive;
+  font-size: 85px;
+  letter-spacing: 3px;
+  font-weight: bold;
+}
+h2 {
+    font-family: 'Special Elite', cursive;
+    font-size: 45px;
+}
+h3 {font-family: 'Special Elite', cursive;
+    font-size: 35px;
+}  
+h4 {font-family: 'Special Elite', cursive;
+    font-size: 35px;
+}  
+p {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 20px;
+}
+.intro {
+      background-color: #083D77;
+      padding: 3px;
+}
+.interests {
+      background-color: #92140C;
+      padding: 3px;
+}
+.misc {
+      background-color: #FA9F42;
+      padding: 3px;
+}
