@@ -41,21 +41,23 @@ h2 {
     font-size: 35px;
 }
 h3 {font-family: 'Special Elite', cursive;
-    font-size: 25px;
+    font-size: 30px;
+    text-align: center;
 }  
 h4 {font-family: 'Special Elite', cursive;
-    font-size: 25px;
+    font-size: 30px;
+    text-align: center;
 }  
 p {
   font-family: 'Titillium Web', sans-serif;
 }
 .intro {
       background-color: #083D77;
-      padding: 3px;
+      padding: 10px;
 }
 .interests {
       background-color: #92140C;
-      padding: 3px;
+      padding: 10px;
 }
 .footer {
   background-color: #FA9F42;
