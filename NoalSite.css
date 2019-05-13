@@ -57,6 +57,11 @@ h4 {font-family: 'Special Elite', cursive;
     columns-count: 2;
     column-width: 150px;
 }
+.NoalImage2 {
+    float: left;
+    width: 50%;
+    padding: 20px;
+}
 .interests {
     clear: left;
     background-color: #92140C;
