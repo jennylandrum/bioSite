@@ -54,7 +54,8 @@ h4 {font-family: 'Special Elite', cursive;
     background-color: #083D77;
     padding: 10px;
     font-family: 'Titillium Web', sans-serif;
-    overflow: auto;
+    columns-count: 2;
+    column-width: 150px;
 }
 .NoalImage2 {
     float: left;
