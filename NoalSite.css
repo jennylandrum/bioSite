@@ -52,10 +52,12 @@ h4 {font-family: 'Special Elite', cursive;
 }  
 .intro {
     background-color: #083D77;
-    text-align: center;
     padding: 10px;
     font-family: 'Titillium Web', sans-serif;
     overflow: auto;
+}
+.introtitle {
+    text-align: center;
 }
 .NoalImage2 {
     float: left;
