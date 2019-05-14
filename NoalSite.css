@@ -4,6 +4,7 @@ html{
 body {
     background-color: black;
     color: white;
+    margin-top: 10px;
 }
 .header {
     text-align: center;
@@ -13,6 +14,7 @@ body {
     overflow: hidden;
     background-color: #353238;
     font-family: 'Special Elite', cursive;
+    margin: 0px;
 }
 /* Navbar links */
 .topnav a {
@@ -59,6 +61,9 @@ h4 {font-family: 'Special Elite', cursive;
     padding: 5px;
     font-family: 'Titillium Web', sans-serif;
     overflow: auto;
+    margin: 30px;
+    margin-bottom: 0px;
+    margin-top: 10px;
 }
 .NoalImage2 {
     float: left;
@@ -76,6 +81,9 @@ h4 {font-family: 'Special Elite', cursive;
     padding: 5px;
     font-family: 'Titillium Web', sans-serif;
     overflow: auto;
+    margin: 30px;
+    margin-top: 10px;
+    margin-bottom: 0px;
 }
 .Miniatures {
     float: left;
@@ -84,7 +92,7 @@ h4 {font-family: 'Special Elite', cursive;
 }
 .MiniaturesText {
     float: left;
-    width: 300px;
+    width: 250px;
     margin: 10px;
 }
 .NoalandGreg {
@@ -94,14 +102,20 @@ h4 {font-family: 'Special Elite', cursive;
 }
 .NMDB {
     float: left;
-    width: 300px;
+    width: 250px;
     margin: 10px;
 }
 .footer {
     background-color: #FA9F42;
     line-height: 0em;
     text-align: center;
-    padding: 10px;
+    padding: 5px;
     color: black;
     font-family: 'Titillium Web', sans-serif;
+    margin: 0px;
+}
+.avatar {
+    float: left;
+    width: 335px;
+    margin-left: 75px;
 }
