@@ -1,5 +1,5 @@
 html{
-    font-size: 16px;
+    font-size: 17px;
     }
 body {
     background-color: black;
@@ -14,7 +14,6 @@ body {
     background-color: #353238;
     font-family: 'Special Elite', cursive;
 }
-
 /* Navbar links */
 .topnav a {
     float: left;
@@ -24,7 +23,6 @@ body {
     padding: 14px 16px;
     text-decoration: none;
 }
-
 /* Links - change color on hover */
 .topnav a:hover {
     background-color: #ddd;
@@ -43,41 +41,65 @@ h2 {
 /* Intro Text*/
 h3 {font-family: 'Special Elite', cursive;
     font-size: 30px;
-    text-align: center;
+    text-align: left;
+    margin: 10px;
+    background-color: #6183A8;
+    padding: 25px;
 } 
 /* Interests Text*/
 h4 {font-family: 'Special Elite', cursive;
     font-size: 30px;
-    text-align: center;
+    text-align: right;
+    margin: 10px;
+    background-color: #A53E38;
+    padding: 25px;
 }  
 .intro {
     background-color: #083D77;
-    padding: 10px;
+    padding: 5px;
     font-family: 'Titillium Web', sans-serif;
     overflow: auto;
 }
-.introtitle {
-    text-align: center;
-}
 .NoalImage2 {
     float: left;
-    width: 50%;
-    padding: 20px;
+    width: 250px;
+    margin: 10px;
+}
+.introparagraph {
+    float: left;
+    width: 1000px;
+    margin: 10px;
 }
 .interests {
     clear: left;
     background-color: #92140C;
-    padding: 10px;
+    padding: 5px;
     font-family: 'Titillium Web', sans-serif;
     overflow: auto;
 }
 .Miniatures {
     float: left;
-    width: 50%;
-    padding: 20px;
+    width: 335px;
+    margin: 10px;
+}
+.MiniaturesText {
+    float: left;
+    width: 300px;
+    margin: 10px;
+}
+.NoalandGreg {
+    float: left;
+    width: 335px;
+    margin: 10px;
+}
+.NMDB {
+    float: left;
+    width: 300px;
+    margin: 10px;
 }
 .footer {
     background-color: #FA9F42;
+    line-height: 0em;
     text-align: center;
     padding: 10px;
     color: black;
