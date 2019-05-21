@@ -119,3 +119,7 @@ h4 {font-family: 'Special Elite', cursive;
     width: 335px;
     margin-left: 75px;
 }
+/* visited link */
+a:visited {
+  color: white;
+}
